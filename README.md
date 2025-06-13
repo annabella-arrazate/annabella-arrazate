@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**annabella-arrazate/annabella-arrazate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My name is Annabella (Archer) Arrazate!
 
-Here are some ideas to get you started:
+This is my README file ヾ(•ω•`)o
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You'll learn a bit more about me through this file, so feel free to peruse through this file if you want to learn more about the mind behind this site 
+
+## About  me!
+
+I'm not that interesting  ¬_¬
+
+I'm a sophomore in high school ☆*: .｡. o(≧▽≦)o .｡.:*☆
+
+I like coding, reading, writing, knitting, drinking tea, and baking (✿◡‿◡)
+
+I go by they/them
+
